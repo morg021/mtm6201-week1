@@ -1,0 +1,21 @@
+
+.wrapper {
+    max-width: 800px;
+    background-color: beige;
+margin: auto;
+    padding: 20px;
+}
+header {
+    background-color:burlywood;
+}
+.container { 
+    width: auto;
+    margin: 0 auto; 
+    }
+
+    div img { 
+        max-width: 150px;
+        
+        float: left;
+        padding: 10px;
+    }
