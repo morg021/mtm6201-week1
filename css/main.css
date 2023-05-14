@@ -7,11 +7,13 @@ margin: auto;
 }
 header {
     background-color:burlywood;
+    padding-left: 3px;
     
 }
 .container { 
     width: auto;
     margin: 0 auto; 
+    padding-left: 3px;
     }
 
     div img { 
@@ -29,4 +31,8 @@ header {
         margin: auto;
         padding: 1px;
         font-size: 1rem;
+    }
+    dl {
+        background-color: burlywood;
+        padding-left: 3px;
     }
