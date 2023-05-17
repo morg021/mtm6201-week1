@@ -1,8 +1,8 @@
 
 .wrapper {
+    margin: auto;
     max-width: 800px;
     background-color: beige;
-    margin: auto;
     padding: 10px;
     margin-right: 3px;
 
