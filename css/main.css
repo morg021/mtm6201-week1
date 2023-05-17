@@ -2,37 +2,41 @@
 .wrapper {
     max-width: 800px;
     background-color: beige;
-margin: auto;
-    padding: 20px;
-}
+    margin: auto;
+    padding: 10px;
+    margin-right: 3px;
+
+    }
 header {
     background-color:burlywood;
-    padding-left: 3px;
+    padding-left: 3px; 
+    width: auto;
     
-}
+    }
 .container { 
     width: auto;
     margin: 0 auto; 
-    padding-left: 3px;
+    padding: 10px;
     }
 
-    div img { 
+ div img { 
+        width: 100%;
         max-width: 150px; 
         height: auto;
-        
         float: left;
         padding: 10px;
-    }
-    dt {
-        font-size: 1.5rem;
-        font-weight: bold;
-    }
-    dd {
-        margin: auto;
-        padding: 1px;
-        font-size: 1rem;
-    }
-    dl {
-        background-color: burlywood;
-        padding-left: 3px;
+        
+      }
+dt {
+     font-size: 1.5rem;
+     font-weight: bold;
+      }
+dd {
+     margin: auto;
+     padding: 1px;
+     font-size: 1rem;
+       }
+dl {
+     background-color: burlywood;
+    padding-left: 3px;
     }
