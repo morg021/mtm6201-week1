@@ -3,20 +3,20 @@
     margin: auto;
     max-width: 800px;
     background-color: beige;
-    padding: 10px;
-    margin-right: 3px;
+    padding: 20px;
+     
 
     }
 header {
     background-color:burlywood;
     padding-left: 3px; 
-    width: auto;
+    
     
     }
 .container { 
-    width: auto;
-    margin: 0 auto; 
+    margin: 0 auto;  
     padding: 10px;
+
     }
 
  div img { 
@@ -32,7 +32,7 @@ dt {
      font-weight: bold;
       }
 dd {
-     margin: auto;
+     margin: auto; 
      padding: 1px;
      font-size: 1rem;
        }
