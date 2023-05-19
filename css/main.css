@@ -1,4 +1,8 @@
 
+body {
+     font-size:  16px; 
+     
+}
 .wrapper {
     margin: auto;
     max-width: 800px;
@@ -28,13 +32,13 @@ header {
         
       }
 dt {
-     font-size: 1.5rem;
+     font-size: 24px;
      font-weight: bold;
       }
 dd {
      margin: auto; 
      padding: 1px;
-     font-size: 1rem;
+     
        }
 dl {
      background-color: burlywood;
